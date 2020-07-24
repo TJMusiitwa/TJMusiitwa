@@ -13,6 +13,12 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#167](https://github.com//anuraghazra/github-readme-stats/issues/167) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#70](https://github.com//ThinkDigitalSoftware/tavern/issues/70) in [ThinkDigitalSoftware/tavern](https://github.com//ThinkDigitalSoftware/tavern)
+3. 🗣 Commented on [#70](https://github.com//ThinkDigitalSoftware/tavern/issues/70) in [ThinkDigitalSoftware/tavern](https://github.com//ThinkDigitalSoftware/tavern)
+4. ❗️ Opened issue [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
+5. 🗣 Commented on [#724](https://github.com//simolus3/moor/issues/724) in [simolus3/moor](https://github.com//simolus3/moor)
+<!--END_SECTION:activity-->
 
 
 <details>
