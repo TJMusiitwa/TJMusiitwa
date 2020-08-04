@@ -13,11 +13,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
-2. 🗣 Commented on [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
-3. ❗️ Opened issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
-4. 🗣 Commented on [#167](https://github.com//anuraghazra/github-readme-stats/issues/167) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#70](https://github.com//ThinkDigitalSoftware/tavern/issues/70) in [ThinkDigitalSoftware/tavern](https://github.com//ThinkDigitalSoftware/tavern)
+1. 🗣 Commented on [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
+2. 🗣 Commented on [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
+3. ❗️ Closed issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
+4. 🗣 Commented on [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
+5. ❗️ Opened issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
 <!--END_SECTION:activity-->
 
 
