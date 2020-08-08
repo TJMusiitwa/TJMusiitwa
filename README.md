@@ -13,11 +13,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
-2. 🗣 Commented on [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
-3. ❗️ Closed issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
-4. 🗣 Commented on [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
-5. ❗️ Opened issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
+1. 🎉 Merged PR [#2](https://github.com//TJMusiitwa/app/pull/2) in [TJMusiitwa/app](https://github.com//TJMusiitwa/app)
+2. 💪 Opened PR [#2](https://github.com//TJMusiitwa/app/pull/2) in [TJMusiitwa/app](https://github.com//TJMusiitwa/app)
+3. 🗣 Commented on [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
+4. 🗣 Commented on [#2](https://github.com//covidtrace/contact_trace_plugin/issues/2) in [covidtrace/contact_trace_plugin](https://github.com//covidtrace/contact_trace_plugin)
+5. ❗️ Closed issue [#879](https://github.com//stablekernel/aqueduct/issues/879) in [stablekernel/aqueduct](https://github.com//stablekernel/aqueduct)
 <!--END_SECTION:activity-->
 
 
