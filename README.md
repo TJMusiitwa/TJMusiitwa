@@ -20,6 +20,9 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 5. 🗣 Commented on [#70](https://github.com/ThinkDigitalSoftware/tavern/issues/70) in [ThinkDigitalSoftware/tavern](https://github.com/ThinkDigitalSoftware/tavern)
 <!--END_SECTION:activity-->
 
+## Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>Other Stuff About Me</summary>
