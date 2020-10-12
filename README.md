@@ -13,11 +13,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/ThinkDigitalSoftware/tavern/issues/70) in [ThinkDigitalSoftware/tavern](https://github.com/ThinkDigitalSoftware/tavern)
-2. 🗣 Commented on [#131](https://github.com/transistorsoft/flutter_background_fetch/issues/131) in [transistorsoft/flutter_background_fetch](https://github.com/transistorsoft/flutter_background_fetch)
-3. 🗣 Commented on [#131](https://github.com/transistorsoft/flutter_background_fetch/issues/131) in [transistorsoft/flutter_background_fetch](https://github.com/transistorsoft/flutter_background_fetch)
-4. 🗣 Commented on [#131](https://github.com/transistorsoft/flutter_background_fetch/issues/131) in [transistorsoft/flutter_background_fetch](https://github.com/transistorsoft/flutter_background_fetch)
-5. 🎉 Merged PR [#5](https://github.com/TJMusiitwa/app/pull/5) in [TJMusiitwa/app](https://github.com/TJMusiitwa/app)
+1. ❗️ Reopened issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+2. ❗️ Closed issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+3. 🗣 Commented on [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+4. ❗️ Opened issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+5. 🗣 Commented on [#70](https://github.com/ThinkDigitalSoftware/tavern/issues/70) in [ThinkDigitalSoftware/tavern](https://github.com/ThinkDigitalSoftware/tavern)
 <!--END_SECTION:activity-->
 
 
