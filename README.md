@@ -13,11 +13,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/TJMusiitwa/RAWG_Flutter_App/pull/1) in [TJMusiitwa/RAWG_Flutter_App](https://github.com/TJMusiitwa/RAWG_Flutter_App)
-2. ❗️ Opened issue [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❗️ Reopened issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
-4. ❗️ Closed issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
-5. 🗣 Commented on [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+1. ❗️ Closed issue [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🗣 Commented on [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/TJMusiitwa/pull/1) in [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)
+4. 🗣 Commented on [#1](https://github.com/TJMusiitwa/TJMusiitwa/issues/1) in [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)
+5. ❌ Closed PR [#1](https://github.com/TJMusiitwa/RAWG_Flutter_App/pull/1) in [TJMusiitwa/RAWG_Flutter_App](https://github.com/TJMusiitwa/RAWG_Flutter_App)
 <!--END_SECTION:activity-->
 
 ## Coding Stats
