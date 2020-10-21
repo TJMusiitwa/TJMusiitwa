@@ -22,7 +22,7 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,13 +36,13 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       63 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
+Monday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
 Tuesday      44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Wednesday    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+Wednesday    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
 Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
 Friday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 Saturday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
+Sunday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2%
 
 ```
 
