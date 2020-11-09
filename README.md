@@ -13,11 +13,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
-2. 🗣 Commented on [#837](https://github.com/stablekernel/aqueduct/issues/837) in [stablekernel/aqueduct](https://github.com/stablekernel/aqueduct)
-3. ❗️ Closed issue [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 🗣 Commented on [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/TJMusiitwa/pull/1) in [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)
+1. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/flutter_fruta/pull/1) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+2. ❗️ Opened issue [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
+3. 🗣 Commented on [#837](https://github.com/stablekernel/aqueduct/issues/837) in [stablekernel/aqueduct](https://github.com/stablekernel/aqueduct)
+4. ❗️ Closed issue [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 🗣 Commented on [#120](https://github.com/anmol098/waka-readme-stats/issues/120) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 ## Coding Stats
