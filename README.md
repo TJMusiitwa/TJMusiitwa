@@ -1,7 +1,9 @@
-# Hi 👋🏾 It's Jonathan T. Musiitwa here 
-😄 Pronouns: *TJ, JT, Flutter guy*
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tjmusiitwa" height="360"/>
 
 ![Github](https://img.shields.io/badge/TJonathan-lightgrey?style=social&logo=github&link=https://github.com/TJMusiitwa) ![LinkedIn](https://img.shields.io/badge/Jonathan_Musiitwa-lightgrey?style=social&logo=linkedin&link=https://www.linkedin.com/in/jonathan-musiitwa-a1107610a/) ![Twitter](https://img.shields.io/badge/TJMusiitwa-lightgrey?style=social&logo=twitter&link=https%3A%2F%2Ftwitter.com%2FTJMusiitwa) ![Email](https://img.shields.io/badge/jonamusiitwa-lightgrey?style=social&logo=microsoft-outlook&link=mailto:jonamusiitwa@outlook.com) ![Codersrank](https://img.shields.io/badge/TJMusiitwa-lightgrey?style=social&logo=codersrank&link=https://profile.codersrank.io/user/tjmusiitwa/) ![GitHub followers](https://img.shields.io/github/followers/TJMusiitwa?style=social)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=TJMusiitwa.TJMusiitwa)
+
+
+
 
 I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Science learner. I love working on and building cross-platform applications as well as building systems that understand what makes information tick. If I am not coding you will find me engorssed in an ePUB novel.
 
