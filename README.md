@@ -17,11 +17,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/chris-lovejoy/YouTube-video-finder/issues/3) in [chris-lovejoy/YouTube-video-finder](https://github.com/chris-lovejoy/YouTube-video-finder)
-2. 🗣 Commented on [#4](https://github.com/VNAPNIC/flutter_nearby_connections/issues/4) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
-3. 🗣 Commented on [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
-4. ❗️ Closed issue [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
-5. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/flutter_fruta/pull/1) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+1. 🗣 Commented on [#60696](https://github.com/flutter/flutter/issues/60696) in [flutter/flutter](https://github.com/flutter/flutter)
+2. ❗️ Opened issue [#3](https://github.com/chris-lovejoy/YouTube-video-finder/issues/3) in [chris-lovejoy/YouTube-video-finder](https://github.com/chris-lovejoy/YouTube-video-finder)
+3. 🗣 Commented on [#4](https://github.com/VNAPNIC/flutter_nearby_connections/issues/4) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
+4. 🗣 Commented on [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
+5. ❗️ Closed issue [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
 <!--END_SECTION:activity-->
 
 ## Coding Stats
