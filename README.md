@@ -17,9 +17,9 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/DartIceandFire/pull/1) in [TJMusiitwa/DartIceandFire](https://github.com/TJMusiitwa/DartIceandFire)
-2. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#4](https://github.com/VNAPNIC/flutter_nearby_connections/issues/4) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
+1. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/DartIceandFire/pull/1) in [TJMusiitwa/DartIceandFire](https://github.com/TJMusiitwa/DartIceandFire)
+3. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 4. 🗣 Commented on [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
 5. ❗️ Closed issue [#5](https://github.com/VNAPNIC/flutter_nearby_connections/issues/5) in [VNAPNIC/flutter_nearby_connections](https://github.com/VNAPNIC/flutter_nearby_connections)
 <!--END_SECTION:activity-->
