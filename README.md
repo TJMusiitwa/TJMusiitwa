@@ -17,7 +17,7 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/Flutterwave/flutterwave-flutter/issues/27) in [Flutterwave/flutterwave-flutter](https://github.com/Flutterwave/flutterwave-flutter)
+1. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client/pull/1) in [TJMusiitwa/Flutter-Rick-and-Morty-Client](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client)
 2. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/veggie_android_seasons/pull/1) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
 3. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 4. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/DartIceandFire/pull/1) in [TJMusiitwa/DartIceandFire](https://github.com/TJMusiitwa/DartIceandFire)
