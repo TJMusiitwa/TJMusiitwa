@@ -17,11 +17,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
+1. 🗣 Commented on [#7](https://github.com/yako-dev/flutter-status-alert/issues/7) in [yako-dev/flutter-status-alert](https://github.com/yako-dev/flutter-status-alert)
 2. 🗣 Commented on [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
-3. ❗️ Opened issue [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
-4. 🗣 Commented on [#13](https://github.com/kauemurakami/getx_snippets_extension/issues/13) in [kauemurakami/getx_snippets_extension](https://github.com/kauemurakami/getx_snippets_extension)
-5. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client/pull/1) in [TJMusiitwa/Flutter-Rick-and-Morty-Client](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client)
+3. 🗣 Commented on [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
+4. ❗️ Opened issue [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
+5. 🗣 Commented on [#13](https://github.com/kauemurakami/getx_snippets_extension/issues/13) in [kauemurakami/getx_snippets_extension](https://github.com/kauemurakami/getx_snippets_extension)
 <!--END_SECTION:activity-->
 
 ## Coding Stats
