@@ -17,11 +17,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1392](https://github.com/jonataslaw/getx/issues/1392) in [jonataslaw/getx](https://github.com/jonataslaw/getx)
-2. 🗣 Commented on [#7](https://github.com/yako-dev/flutter-status-alert/issues/7) in [yako-dev/flutter-status-alert](https://github.com/yako-dev/flutter-status-alert)
-3. 🗣 Commented on [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
-4. 🗣 Commented on [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
-5. ❗️ Opened issue [#25](https://github.com/fayaz07/ots/issues/25) in [fayaz07/ots](https://github.com/fayaz07/ots)
+1. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
+2. 💪 Opened PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
+3. 🗣 Commented on [#159](https://github.com/jamesblasco/modal_bottom_sheet/issues/159) in [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
+4. ❗️ Opened issue [#1392](https://github.com/jonataslaw/getx/issues/1392) in [jonataslaw/getx](https://github.com/jonataslaw/getx)
+5. 🗣 Commented on [#7](https://github.com/yako-dev/flutter-status-alert/issues/7) in [yako-dev/flutter-status-alert](https://github.com/yako-dev/flutter-status-alert)
 <!--END_SECTION:activity-->
 
 ## Coding Stats
