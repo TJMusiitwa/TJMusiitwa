@@ -17,11 +17,11 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#185](https://github.com/gql-dart/ferry/issues/185) in [gql-dart/ferry](https://github.com/gql-dart/ferry)
-2. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
-3. 💪 Opened PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
-4. 🗣 Commented on [#159](https://github.com/jamesblasco/modal_bottom_sheet/issues/159) in [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
-5. ❗️ Opened issue [#1392](https://github.com/jonataslaw/getx/issues/1392) in [jonataslaw/getx](https://github.com/jonataslaw/getx)
+1. 🗣 Commented on [#159](https://github.com/jamesblasco/modal_bottom_sheet/issues/159) in [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
+2. ❗️ Opened issue [#185](https://github.com/gql-dart/ferry/issues/185) in [gql-dart/ferry](https://github.com/gql-dart/ferry)
+3. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
+4. 💪 Opened PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
+5. 🗣 Commented on [#159](https://github.com/jamesblasco/modal_bottom_sheet/issues/159) in [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
 <!--END_SECTION:activity-->
 
 ## Coding Stats
