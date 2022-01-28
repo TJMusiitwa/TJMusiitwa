@@ -17,8 +17,8 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#60696](https://github.com/flutter/flutter/issues/60696) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#185](https://github.com/gql-dart/ferry/issues/185) in [gql-dart/ferry](https://github.com/gql-dart/ferry)
+1. 🗣 Commented on [#6900](https://github.com/FirebaseExtended/flutterfire/issues/6900) in [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire)
+2. ❗️ Closed issue [#60696](https://github.com/flutter/flutter/issues/60696) in [flutter/flutter](https://github.com/flutter/flutter)
 3. 🗣 Commented on [#159](https://github.com/jamesblasco/modal_bottom_sheet/issues/159) in [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
 4. ❗️ Opened issue [#185](https://github.com/gql-dart/ferry/issues/185) in [gql-dart/ferry](https://github.com/gql-dart/ferry)
 5. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
