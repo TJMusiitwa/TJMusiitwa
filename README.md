@@ -1,6 +1,6 @@
 # Hi 👋🏾 It's Jonathan T. Musiitwa here 
 
-😄 Pronouns: *TJ, JT, Flutter guy, he/him/his*
+😄 Pronouns: *he/him/his*
 
 ![Github](https://img.shields.io/badge/TJonathan-lightgrey?style=social&logo=github&link=https://github.com/TJMusiitwa) ![LinkedIn](https://img.shields.io/badge/Jonathan_Musiitwa-lightgrey?style=social&logo=linkedin&link=https://www.linkedin.com/in/jonathan-musiitwa-a1107610a/) ![Twitter](https://img.shields.io/badge/TJMusiitwa-lightgrey?style=social&logo=twitter&link=https%3A%2F%2Ftwitter.com%2FTJMusiitwa) ![Email](https://img.shields.io/badge/jonamusiitwa-lightgrey?style=social&logo=microsoft-outlook&link=mailto:jonamusiitwa@outlook.com) ![Codersrank](https://img.shields.io/badge/TJMusiitwa-lightgrey?style=social&logo=codersrank&link=https://profile.codersrank.io/user/tjmusiitwa/) ![GitHub followers](https://img.shields.io/github/followers/TJMusiitwa?style=social)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=TJMusiitwa.TJMusiitwa)
 
@@ -16,13 +16,9 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 ![My github stats](https://github-readme-stats.vercel.app/api?username=TJMusiitwa&show_icons=true&count_private=true&theme=radical)
 
 ## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#6900](https://github.com/FirebaseExtended/flutterfire/issues/6900) in [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire)
-2. ❗️ Closed issue [#60696](https://github.com/flutter/flutter/issues/60696) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#159](https://github.com/jamesblasco/modal_bottom_sheet/issues/159) in [jamesblasco/modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet)
-4. ❗️ Opened issue [#185](https://github.com/gql-dart/ferry/issues/185) in [gql-dart/ferry](https://github.com/gql-dart/ferry)
-5. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/veggie_android_seasons/pull/2) in [TJMusiitwa/veggie_android_seasons](https://github.com/TJMusiitwa/veggie_android_seasons)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Coding Stats
 <!--START_SECTION:waka-->
