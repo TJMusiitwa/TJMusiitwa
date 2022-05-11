@@ -17,12 +17,15 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/TJMusiitwa/flutter_fruta/pull/3) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
-2. 📔 Created new repository [TJMusiitwa/flutter_days_app](https://github.com/TJMusiitwa/flutter_days_app)
+1. 🎉 Merged PR [#4](https://github.com/TJMusiitwa/flutter_fruta/pull/4) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+2. 💪 Opened PR [#4](https://github.com/TJMusiitwa/flutter_fruta/pull/4) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+3. 🎉 Merged PR [#3](https://github.com/TJMusiitwa/flutter_fruta/pull/3) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+4. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/flutter_fruta/pull/2) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+5. 💪 Opened PR [#3](https://github.com/TJMusiitwa/flutter_fruta/pull/3) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 10th, 2022, 6:18:56 PM
+Last Updated: Wednesday, May 11th, 2022, 1:20:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
