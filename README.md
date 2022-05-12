@@ -17,15 +17,15 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/TJMusiitwa/flutter_fruta/pull/4) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
-2. 💪 Opened PR [#4](https://github.com/TJMusiitwa/flutter_fruta/pull/4) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
-3. 🎉 Merged PR [#3](https://github.com/TJMusiitwa/flutter_fruta/pull/3) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
-4. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/flutter_fruta/pull/2) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
-5. 💪 Opened PR [#3](https://github.com/TJMusiitwa/flutter_fruta/pull/3) in [TJMusiitwa/flutter_fruta](https://github.com/TJMusiitwa/flutter_fruta)
+1. ⭐ Starred [salvadordeveloper/flutter-crypto-app](https://github.com/salvadordeveloper/flutter-crypto-app)
+2. ⭐ Starred [Physicx101/Joinmun](https://github.com/Physicx101/Joinmun)
+3. ⭐ Starred [ninest/NextBusSG](https://github.com/ninest/NextBusSG)
+4. ⭐ Starred [rutvik110/Flutter-Animations](https://github.com/rutvik110/Flutter-Animations)
+5. ⭐ Starred [android/compose-samples](https://github.com/android/compose-samples)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 12th, 2022, 12:34:18 PM
+Last Updated: Thursday, May 12th, 2022, 6:20:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
