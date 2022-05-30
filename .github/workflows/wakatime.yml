@@ -1,6 +1,7 @@
 name: Waka Readme
 
 on:
+  push:
   schedule:
     - cron: '00 12 * * 0'
   workflow_dispatch:  
@@ -21,3 +22,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
+          "IGNORED_REPOS": "cu-flutter"
