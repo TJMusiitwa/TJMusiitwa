@@ -30,15 +30,15 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)
-2. 📔 Created new repository [TJMusiitwa/disneyplus_facelift](https://github.com/TJMusiitwa/disneyplus_facelift)
-3. 📔 Created new repository [TJMusiitwa/not_apple_developer](https://github.com/TJMusiitwa/not_apple_developer)
-4. 📔 Created new repository [TJMusiitwa/driveway_delivery_app](https://github.com/TJMusiitwa/driveway_delivery_app)
-5. ⭐ Starred [salvadordeveloper/flutter-crypto-app](https://github.com/salvadordeveloper/flutter-crypto-app)
+1. ⭐ Starred [fluttertools/flutter.space](https://github.com/fluttertools/flutter.space)
+2. ⭐ Starred [fluttertools/pub_api_client](https://github.com/fluttertools/pub_api_client)
+3. ⭐ Starred [EdvaldoMartins/flutter_pub_dev](https://github.com/EdvaldoMartins/flutter_pub_dev)
+4. ⭐ Starred [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)
+5. 📔 Created new repository [TJMusiitwa/disneyplus_facelift](https://github.com/TJMusiitwa/disneyplus_facelift)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 6:21:23 PM
+Last Updated: Wednesday, June 8th, 2022, 1:10:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
