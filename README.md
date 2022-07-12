@@ -30,15 +30,15 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [TJMusiitwa/deskpub](https://github.com/TJMusiitwa/deskpub)
-2. ⭐ Starred [fluttertools/flutter.space](https://github.com/fluttertools/flutter.space)
-3. ⭐ Starred [fluttertools/pub_api_client](https://github.com/fluttertools/pub_api_client)
-4. ⭐ Starred [EdvaldoMartins/flutter_pub_dev](https://github.com/EdvaldoMartins/flutter_pub_dev)
-5. ⭐ Starred [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)
+1. ⭐ Starred [sbis04/flutter-parallax-cards](https://github.com/sbis04/flutter-parallax-cards)
+2. 📔 Created new repository [TJMusiitwa/deskpub](https://github.com/TJMusiitwa/deskpub)
+3. ⭐ Starred [fluttertools/flutter.space](https://github.com/fluttertools/flutter.space)
+4. ⭐ Starred [fluttertools/pub_api_client](https://github.com/fluttertools/pub_api_client)
+5. ⭐ Starred [EdvaldoMartins/flutter_pub_dev](https://github.com/EdvaldoMartins/flutter_pub_dev)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 11th, 2022, 6:18:40 PM
+Last Updated: Tuesday, July 12th, 2022, 1:26:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
