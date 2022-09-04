@@ -43,7 +43,7 @@ Last Updated: Sunday, September 4th, 2022, 6:17:34 AM
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C421%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -93,7 +93,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 12:35:32 UTC
+ Last Updated on 04/09/2022 12:40:48 UTC
 <!--END_SECTION:waka-->
 
 <details>
