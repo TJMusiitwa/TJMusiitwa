@@ -30,15 +30,15 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
-2. 💬 Commented on [#48](https://github.com/wilburt/rave_flutter/issues/48#issuecomment-1186377237) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
-3. ✔️ Closed issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
-4. ⭐ Starred [bizz84/flutter-tips-and-tricks](https://github.com/bizz84/flutter-tips-and-tricks)
-5. ⭐ Starred [sbis04/flutter-parallax-cards](https://github.com/sbis04/flutter-parallax-cards)
+1. ⭐ Starred [GroovinChip/macos_ui](https://github.com/GroovinChip/macos_ui)
+2. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+3. 💬 Commented on [#48](https://github.com/wilburt/rave_flutter/issues/48#issuecomment-1186377237) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+4. ✔️ Closed issue [#48](https://github.com/wilburt/rave_flutter/issues/48) in [wilburt/rave_flutter](https://github.com/wilburt/rave_flutter)
+5. ⭐ Starred [bizz84/flutter-tips-and-tricks](https://github.com/bizz84/flutter-tips-and-tricks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 7th, 2022, 12:36:03 PM
+Last Updated: Friday, October 7th, 2022, 6:25:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
