@@ -34,11 +34,10 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 2. 👍 Approved [#1](https://github.com/cu-apps/adaptable_scaffold/pull/1#pullrequestreview-1191573542) in [cu-apps/adaptable_scaffold](https://github.com/cu-apps/adaptable_scaffold)
 3. 🎉 Merged PR [#1](https://github.com/TJMusiitwa/deskpub/pull/1) in [TJMusiitwa/deskpub](https://github.com/TJMusiitwa/deskpub)
 4. ⭐ Starred [GroovinChip/macos_ui](https://github.com/GroovinChip/macos_ui)
-5. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 2nd, 2022, 1:05:23 AM
+Last Updated: Friday, December 2nd, 2022, 6:16:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
