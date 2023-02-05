@@ -22,7 +22,7 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 ### Cloud
 <hr>
 
-![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud) ![Azure](https://img.shields.io/badge/Microsoft_Azure-lightblue?style=for-the-badge&logo=microsoft-azure) ![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku) ![HASURA](https://img.shields.io/badge/HASURA-lightblue?style=for-the-badge&logo=hasura&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud) ![Azure](https://img.shields.io/badge/Microsoft_Azure-lightblue?style=for-the-badge&logo=microsoft-azure)
 
 ## My Stats
 
@@ -67,32 +67,6 @@ Saturday     33 commits     █░░░░░░░░░░░░░░░░�
 Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     31 hrs 11 mins      ███████████████████████░░   93.23% 
-YAML                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     39 repos            █████████████████░░░░░░░░   68.42% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
-
-```
-
-
 
  Last Updated on 22/01/2023 12:43:57 UTC
 <!--END_SECTION:waka-->
