@@ -13,7 +13,7 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 ### Tools, Technologies, Stack
 <hr>
 
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)  ![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart) ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)  ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)  ![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart) ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)  ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&) ![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase)
 ### CI/CD
 <hr>
 
