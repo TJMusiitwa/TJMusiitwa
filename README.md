@@ -32,11 +32,10 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [rydmike/flex_color_scheme](https://github.com/rydmike/flex_color_scheme)
 2. ⭐ Starred [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui)
-3. 🎉 Merged PR [#2](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client/pull/2) in [TJMusiitwa/Flutter-Rick-and-Morty-Client](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 18th, 2023, 12:53:16 AM
+Last Updated: Wednesday, October 18th, 2023, 6:15:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
