@@ -17,7 +17,7 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 ### CI/CD
 <hr>
 
-![CODEMAGIC](https://img.shields.io/badge/CODEMAGIC-orange?style=for-the-badge&logo=codemagic&logoColor=white) ![GITHUB ACTIONS](https://img.shields.io/badge/GITHUB_ACTIONS-black?style=for-the-badge&logo=github-actions&logoColor=white)
+![CODEMAGIC](https://img.shields.io/badge/CODEMAGIC-orange?style=for-the-badge&logo=codemagic&logoColor=white) ![GITHUB ACTIONS](https://img.shields.io/badge/GITHUB_ACTIONS-black?style=for-the-badge&logo=github-actions&logoColor=white) ![CIRCLE CI](https://img.shields.io/badge/CIRCLECI-green?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### Cloud
 <hr>
