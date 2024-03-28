@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Profile Readme Development Stats
-        uses: anmol098/waka-readme-stats@master
+        uses: miermontoto/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.WAKATIME_STATS_README }}
@@ -25,4 +25,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          IGNORED_REPOS: "cu-flutter, moneyline-app, cu-config"
+          IGNORED_REPOS: "cu-flutter, moneyline-app, cu-config, cu-chat"
