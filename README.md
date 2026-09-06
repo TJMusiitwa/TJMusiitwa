@@ -43,61 +43,60 @@ Last Updated: Sunday, September 6th, 2026, 10:14:59 AM
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C654%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C670%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-438%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.66%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8037 commits        █████████░░░░░░░░░░░░░░░░   35.49 % 
-🌆 Daytime                9768 commits        ███████████░░░░░░░░░░░░░░   43.13 % 
-🌃 Evening                2808 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌙 Night                  2033 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+🌞 Morning                8613 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌆 Daytime                10463 commits       ███████████░░░░░░░░░░░░░░   43.75 % 
+🌃 Evening                2835 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌙 Night                  2006 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3176 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  4375 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Wednesday                3833 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Thursday                 5781 commits        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Friday                   3885 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Saturday                 774 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Sunday                   822 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Monday                   3436 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  4604 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Wednesday                4000 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Thursday                 6185 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Friday                   4141 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Saturday                 762 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Sunday                   789 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 46 mins (79.58%)
+⏱ AI Coding Time: 12 hrs 28 mins (74.9%)
 
-✍️ 2,169 lines written by AI, 2,126 lines written by hand (50.5% AI-written)
+✍️ 2,671 lines written by AI, 996 lines written by hand (72.84% AI-written)
 
-🔤 6,180,714 Input Tokens, 833,556 Output Tokens
+🔤 5,299,081 Input Tokens, 852,423 Output Tokens
 
-💵 $181.97 Estimated AI Cost This Week
+💵 $198.11 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 151 AI Prompts
+🧠 30 AI Sessions, 93 AI Prompts
 
-Sonnet                   2,156 lines         ███████████████████░░░░░░   76.62 % 
-Opus                     654 lines           ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   5,653 lines         ███████████████████████░░   91.86 % 
+Opus                     431 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Github-Copilot           70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.5% of written lines came from AI
-📄 Detailed Prompter — average 968 characters per prompt
+🤖 AI-Driven — 72.84% of written lines came from AI
+📄 Detailed Prompter — average 579 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 78.01% of changed lines were hand-edited
+🚀 High AI Trust — 44.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 15:56:01 UTC
+ Last Updated on 06/09/2026 14:49:44 UTC
 <!--END_SECTION:waka-->
 
 <details>
