@@ -25,4 +25,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          IGNORED_REPOS: "cu-flutter, moneyline-app, cu-config, cu-chat"
+          IGNORED_REPOS: "cu-flutter, moneyline-app, cu-config, cu-chat, custom-vibe-poc, cms-v3-poc"
