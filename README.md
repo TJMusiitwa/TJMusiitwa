@@ -31,14 +31,14 @@ I am a Flutter Apps Developer and Enthusiast as well as a Python and Data Scienc
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)<br>
-2. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/DartIceandFire](https://github.com/TJMusiitwa/DartIceandFire)<br>
-3. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/Flutter-Rick-and-Morty-Client](https://github.com/TJMusiitwa/Flutter-Rick-and-Morty-Client)<br>
+2. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)<br>
+3. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)<br>
 4. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)<br>
 5. ⬆️ Pushed undefined commit(s) to [TJMusiitwa/TJMusiitwa](https://github.com/TJMusiitwa/TJMusiitwa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 3rd, 2026, 12:29:00 AM
+Last Updated: Tuesday, November 3rd, 2026, 1:37:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Coding Stats
